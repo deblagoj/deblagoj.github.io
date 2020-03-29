@@ -1,9 +1,12 @@
 ---
 
 layout: post
-title: Looking back on Selling Gravatar to Automattic
+title: Template with features
 
 ---
+
+
+
 CoronaVirus is an unpresented crysis that requre decisive actions. Here I will hihglight some of the topics that I think are relevant for resolving this crysis faster and what do we need to do after the crysis.
 
 The world countries were completely unprepared for CoronaVirus outbreak. Only the countries in Azia had some previous experince with Sars and other virus outbreaks that gave them heads up and obviously they have resolved the crysis. China, South Korea, Singapore, Hong Kong are all CoronaVirus free right now.
@@ -12,33 +15,67 @@ Europe and USA expecially were completely unprepared.
 
 The CoronaVirus will be a decisive test of the societies and systems resilience. It will shape the future world systems.
 
+layout: post
+title: Markdown Style Guide
+---
 
+My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
 
+This is a demo of all styled elements in Jekyll Now.
 
+[View the markdown used to create this post](https://raw.githubusercontent.com/barryclark/www.jekyllnow.com/gh-pages/_posts/2014-6-19-Markdown-Style-Guide.md).
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+This is a paragraph, it's surrounded by whitespace. Next up are some headers, they're heavily influenced by GitHub's markdown style.
 
-Jekyll requires blog post files to be named according to the following format:
+## Header 2 (H1 is reserved for post titles)##
 
-`YEAR-MONTH-DAY-title.MARKUP`
+### Header 3
 
-you can [get the PDF](/assets/paper.pdf) directly.
+#### Header 4
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-![My helpful screenshot](/assets/1.png)
+A link to [Jekyll Now](http://github.com/barryclark/jekyll-now/). A big ass literal link <http://github.com/barryclark/jekyll-now/>
 
-Jekyll also offers powerful support for code snippets:
+An image, located within /images
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+![an image alt text]({{ site.baseurl }}/images/jekyll-logo.png "an image title")
+
+* A bulletted list
+- alternative syntax 1
++ alternative syntax 2
+  - an indented list item
+
+1. An
+2. ordered
+3. list
+
+Inline markup styles:
+
+- _italics_
+- **bold**
+- `code()`
+
+> Blockquote
+>> Nested Blockquote
+
+Syntax highlighting can be used by wrapping your code in a liquid tag like so:
+
+{{ "{% highlight javascript " }}%}  
+/* Some pointless Javascript */
+var rawr = ["r", "a", "w", "r"];
+{{ "{% endhighlight " }}%}  
+
+creates...
+
+{% highlight javascript %}
+/* Some pointless Javascript */
+var rawr = ["r", "a", "w", "r"];
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Use two trailing spaces  
+on the right  
+to create linebreak tags  
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Finally, horizontal lines
+
+----
+****
