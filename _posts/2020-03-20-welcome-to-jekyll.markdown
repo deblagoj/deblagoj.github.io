@@ -1,19 +1,11 @@
 ---
 
 layout: post
-title: Test
-
+title: Test jekul and markdown features
+published: false
 ---
 
 
-
-CoronaVirus is an unpresented crysis that requre decisive actions. Here I will hihglight some of the topics that I think are relevant for resolving this crysis faster and what do we need to do after the crysis.
-
-The world countries were completely unprepared for CoronaVirus outbreak. Only the countries in Azia had some previous experince with Sars and other virus outbreaks that gave them heads up and obviously they have resolved the crysis. China, South Korea, Singapore, Hong Kong are all CoronaVirus free right now.
-
-Europe and USA expecially were completely unprepared.
-
-The CoronaVirus will be a decisive test of the societies and systems resilience. It will shape the future world systems.
 
 layout: post
 title: Markdown Style Guide
