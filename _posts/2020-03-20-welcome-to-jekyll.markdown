@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: Template with features
+title: Test
 
 ---
 
