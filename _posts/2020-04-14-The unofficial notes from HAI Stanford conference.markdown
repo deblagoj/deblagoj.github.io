@@ -18,8 +18,8 @@ USA due to its system of private liberty, individualism and lack of collectivene
 Instead of recognising the Asian countries preparedness and USA system build-in flaws, Stanford researchers were preaching supremacy of becoming a world leader in handling COVID-19 epidemics. This was even discussed in the panel !?!@?! I was completely appealed. It is just plain crazy to pretend that USA could be the world leader in handling COVID-19. It could maybe be an example how not to do it.
 Most of the Stanford stelar researchers seems to belong to the majority of the population that don’t understand super simple statistics like the number of infected and the number of death of COVID-19, or don't want to understand.
 
-<img src="/assets/img/1.jpeg" alt="drawing" width=600>
 
+![alt text](/assets/img/1.jpeg " ")
 
 Although USA has the most powerful tech companies, it doesn’t have mobile apps for COVID-19 similar like the ones in Singapore or Hong Kong. These apps often violate a lot of privacy laws which makes the big tech nervous, the legislation slow, and the researchers in between unable to do much.
 
