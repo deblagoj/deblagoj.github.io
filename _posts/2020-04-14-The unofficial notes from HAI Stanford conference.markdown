@@ -15,15 +15,14 @@ To be objective, thought, the Asian countries including China, Taiwan, Hong Kong
 
 USA due to its system of private liberty, individualism and lack of collectiveness is in very difficult position to handle COVID-19 epidemics. USA has local laws and jurisdictions that overlaps with state laws and again overlaps with national government and the president. In a nutshell, it is dam difficult to navigate and organise a system that was build to be generally very distributed and fitted to individual rights and liberties. Access to hospitals and distribution of healthcare equipment is hard to manage when there are many different stakeholders in every level local, state, national. Not to mention that healthcare in USA is not universally accessible, like in all other European and Asian countries. This doesn’t work well in pandemics.
 
-Instead of recognising the Asian countries preparedness and USA system build-in flaws, Stanford researchers were preaching supremacy of becoming a world leader in handling COVID-19 epidemics. This was even discussed in the panel !?!@?! I was completely appealed. It is just plain crazy to pretend that USA could be the world leader in handling COVID-19. It could maybe be an example how not to do it.
-Most of the Stanford stelar researchers seems to belong to the majority of the population that don’t understand super simple statistics like the number of infected and the number of death of COVID-19, or don't want to understand.
+Instead of recognising the Asian countries preparedness and USA system build-in flaws, Stanford researchers were preaching supremacy of becoming a world leader in handling COVID-19 epidemics. This was even discussed in the panel !?!@?! I was completely appealed. It is just plain crazy to pretend that USA could be the world leader in handling COVID-19. Rejecting the simplest statistics like the number of infected and the number of death of COVID-19 is pure ignorance.
 
 
 ![alt text](/assets/img/1.jpeg " ")
 
 Although USA has the most powerful tech companies, it doesn’t have mobile apps for COVID-19 similar like the ones in Singapore or Hong Kong. These apps often violate a lot of privacy laws which makes the big tech nervous, the legislation slow, and the researchers in between unable to do much.
 
-What mostly bothered me was overselling and Me! Me! Me! mentality. Overselling with notting done in practice is just plain BS. If we want to be realistic and openminded, let us first admit that Asian countries have done a great job and try to copy most of their success stories. Re-inventing the wheel and pretending that we can do better, just because we are USA and this is Stanford, it did not work for me, and probably did not work for many people that listened.
+What bothered me mostly was the overselling and the Me! Me! Me! mentality. Overselling with notting done in practice is just plain BS. If we want to be realistic and openminded, let us first admit that Asian countries have done a great job and try to copy most of their success stories. Re-inventing the wheel and pretending that we can do better, just because we are USA and this is Stanford, it did not work for me, and probably did not work for many people that listened.
 
 It's not that the entire conference was bad. There were some good talks from Michele Barry, Jason Wang, Anthony Goldbloom and others, that saved the day, at least to me.
 
