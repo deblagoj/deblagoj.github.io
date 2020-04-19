@@ -27,7 +27,7 @@ Building is a change by-product. The basic healthcare needs more hospitals, the 
 
 USA is (still) a cradle of innovation, land of opportunity and brave. This is where USA excels in the world. Failing at the basic and not admitting is a problem.  
 
-I am not a communist or socialist. On the contrary I am deep believer in capitalism, individualism, competition and free market. That said I believe that in 22 century we need more humanism, solidarity and cooperation. More altruism and less greed, more love and less hate. This is was USA needs to be great again.
+I am not a communist or socialist. On the contrary I am deep believer in capitalism, individualism, competition and free market. That said I believe that in 22 century we need more humanism, solidarity and cooperation. More altruism and less greed, more love and less hate. This is what USA needs to be great again.
 
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/eXvBjCO19QY?rel=0" frameborder="0" allowfullscreen></iframe>
