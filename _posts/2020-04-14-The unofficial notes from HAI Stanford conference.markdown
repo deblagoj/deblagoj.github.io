@@ -2,6 +2,7 @@
 layout: post
 title:  "The unofficial notes of Stanford HAI conference on COVID-19 and AI"
 date:   2020-04-14 11:36:07 +0100
+published: false
 ---
 
 
@@ -13,7 +14,7 @@ Now, and on 1 April 2020, it was obvious that in handling COVID-19 Asian countri
 
 To be objective, thought, the Asian countries including China, Taiwan, Hong Kong, Singapore, South Korea were prepared from the previous epidemics. Asian countries had already in place the infrastructure to handle wide spread of epidemics hospitals, medical equipment, an established procedures for population and epidemic monitoring with AI and big data analytics, etc. All of them had a big head-start compared to any other nation.
 
-USA due to its system of private liberty, individualism and lack of collectiveness is in very difficult position to handle COVID-19 epidemics. USA has local laws and jurisdictions that overlaps with state laws and again overlaps with national government and the president. In a nutshell, it is dam difficult to navigate and organise a system that was build to be generally very distributed and fitted to individual rights and liberties. Access to hospitals and distribution of healthcare equipment is hard to manage when there are many different stakeholders in every level local, state, national. Not to mention that healthcare in USA is not universally accessible, like in all other European and Asian countries. This doesn’t work well in pandemics.
+USA liberties, individualism and lack of collectiveness makes it in very difficult position to handle COVID-19 epidemics. USA has local laws and jurisdictions that overlaps with state laws and again overlaps with national government and the president. In a nutshell, it is dam difficult to navigate and organise a system that was build to be generally very distributed and fitted to individual rights and liberties. Access to hospitals and distribution of healthcare equipment is hard to manage when there are many different stakeholders in every level local, state, national. Not to mention that healthcare in USA is not universally accessible, like in all other European and Asian countries. This doesn’t work well in pandemics.
 
 Instead of recognising the Asian countries preparedness and USA system build-in flaws, Stanford researchers were preaching supremacy of becoming a world leader in handling COVID-19 epidemics. This was even discussed in the panel !?!@?! I was completely appealed. It is just plain crazy to pretend that USA could be the world leader in handling COVID-19. Rejecting the simplest statistics like the number of infected and the number of death of COVID-19 is pure ignorance.
 
