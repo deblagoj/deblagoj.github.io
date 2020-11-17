@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "За 5G [MK]"
+title:  "[B] AI, Machine learning(ML), and Deep Learning(DL) learning resources"
 date:   2020-10-19 11:36:07 +0100
 
 ---
