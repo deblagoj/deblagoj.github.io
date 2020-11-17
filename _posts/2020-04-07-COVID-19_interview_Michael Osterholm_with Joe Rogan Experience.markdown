@@ -2,6 +2,7 @@
 layout: post
 title:  "Интерјву со Michael Osterholm за COVID-19 Joe Rogan Experience #1439 [MK] "
 date:   2020-04-07 11:36:07 +0100
+published: false
 ---
 Некои заклучоци од разговорот на [Joe Rogan со Michael T. Osterholm:](https://www.youtube.com/watch?v=E3URhJx0NSw)
 
