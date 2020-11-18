@@ -6,7 +6,7 @@ date:   2020-10-19 11:36:07 +0100
 ---
 
 
-### Intro
+## Intro
 
 There are many awesome** resources for AI, ML, and DL**. The two great books to start with:
 
@@ -27,7 +27,7 @@ Some other resources and courses worth checking out:
 *   **[FastAI](https://www.fast.ai/)**
 *   **[Deep Learning demystified](https://deeplearningdemystified.com/)**
 
-### Deep learning (DL)
+## Deep learning (DL)
 
 DL caused the last AI renaissance. Tensorflow (TF) and **[PyTorch](https://pytorch.org/)** are the two main frameworks. I am biased towards TF because I never had time to learn PyTorch. The two DL books implemented in TF:
 
@@ -61,8 +61,9 @@ The AI field is still evolving rapidly. There are many fabulous resources for ea
 
 *   **[https://deep-learning-drizzle.github.io/index.html](https://deep-learning-drizzle.github.io/index.html)**
 
-### Thanks for reading
+## Thanks for reading
 
 If I missed some important resources please make a comment. Hope you will find something useful.
+Follow me on social networks for recent updates.
 
 Happy learning!
