@@ -28,7 +28,7 @@ Some other resources and courses worth checking out:
 *   **[FastAI](https://www.fast.ai/)**
 *   **[Deep Learning demystified](https://deeplearningdemystified.com/)**
 
-
+<br>
 
 ## Deep learning (DL)
 
