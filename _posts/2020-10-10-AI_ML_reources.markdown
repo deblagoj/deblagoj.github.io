@@ -8,6 +8,7 @@ date:   2020-10-19 11:36:07 +0100
 
 ## Intro
 
+
 There are many awesome** resources for AI, ML, and DL**. The two great books to start with:
 
 
@@ -26,6 +27,8 @@ Some other resources and courses worth checking out:
 *   **[Artificial Intelligence](https://leonardoaraujosantos.gitbook.io/artificial-inteligence/)**
 *   **[FastAI](https://www.fast.ai/)**
 *   **[Deep Learning demystified](https://deeplearningdemystified.com/)**
+
+
 
 ## Deep learning (DL)
 
@@ -58,10 +61,11 @@ Last but not least, **[StackOverflow](https://stackoverflow.com/)** has an ans
 The AI field is still evolving rapidly. There are many fabulous resources for each AI domain such as vision, language, robots, etc. More resources:
 
 
-
 *   **[https://deep-learning-drizzle.github.io/index.html](https://deep-learning-drizzle.github.io/index.html)**
 
+
 ## Thanks for reading
+
 
 If I missed some important resources please make a comment. Hope you will find something useful.
 Follow me on social networks for recent updates.
