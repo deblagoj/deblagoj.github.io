@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "[LinkedIn] A comprehensive list of  European AI Startup Landscape "
-date:   2020-11-17 11:36:07 +0100
-published: false
+date:   2020-11-18 11:36:07 +0100
+
 ---
 
 
