@@ -63,6 +63,7 @@ The AI field is still evolving rapidly. There are many fabulous resources for ea
 
 *   **[https://deep-learning-drizzle.github.io/index.html](https://deep-learning-drizzle.github.io/index.html)**
 
+<br>
 
 ## Thanks for reading
 
