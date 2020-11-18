@@ -6,10 +6,8 @@ date:   2020-10-25 11:36:07 +0100
 ---
 
 
-## Intro
 
-
-<img src="/assets/img/AIvsHuman.jpeg" width="800" />
+<img src="/assets/img/AIvsHuman.jpeg" width="700" />
 
 
 Artificial intelligence (AI) is the intelligence demonstrated by machines in contrast to the natural intelligence displayed by humans and animals. One of AI's goals is to simulate the human brain and make intelligent machines.
