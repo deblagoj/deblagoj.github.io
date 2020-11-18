@@ -9,7 +9,7 @@ date:   2020-10-25 11:36:07 +0100
 ## Intro
 
 
-![test](/assets/img/AIvsHuman.jpeg)
+<img src="/assets/img/AIvsHuman.jpeg" width="400" />
 
 
 Artificial intelligence (AI) is the intelligence demonstrated by machines in contrast to the natural intelligence displayed by humans and animals. One of AI's goals is to simulate the human brain and make intelligent machines.
@@ -17,6 +17,7 @@ Artificial intelligence (AI) is the intelligence demonstrated by machines in con
 The neuron is the human brain's building element. The transistor is the AI's building element. Biological neurons are much more complex than machine transistors. The brain is a hierarchical structure of biological neurons. The computer is a hierarchical structure of transistors. The brain can process massive amounts of visual, sound, touch, smell sensors data. The computer is blazingly fast in numerical computation. People build computers as tools for automatic data processing machines. Human and Machine intelligence is different in its essence, as their building block is, neurons and transistors.
 
 Artificial Neural Network (ANN) got inspiration from biological neurons. The ANN building block is the artificial neuron. An artificial neuron is significantly simpler than biological neurons. The artificial neuron is computationally faster and improves on a yearly scale. The biological neuron is evolving on millions of years scale.
+
 
 Computers can make trillions of calculations per second and perform AI tasks that no human can comprehend. These tasks include:
 
