@@ -16,39 +16,29 @@ My academic career began in 2007, when I began a PhD program at the University o
 
  Accomplishments:
 - Ranked first among the top five students in my generation.
-- Macedonia's first full PhD scholarship from the Dutch government .
+- Macedonia's first full PhD scholarship from the Dutch government in 2010.
 - Macedonia's first CA among the 3500+ employees of the European Commission Joint Research Center.
 
 
 
-<h2>Leadership skills</h2>
+<h2>Organizational, leadership and management skills</h2>
 
 <ul class="skill-list">
-	<li>Machine learning</li>
-	<li>Deep Learning</li>
-	<li>Reinforcement learning</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
+	<li>Team player, Helpful, Trustworthy, Integrity. Strategy, Vision, Leadership, Responsibility.</li>
+	<li>Experienced manager and team lead in Academia, Startups and Public sector.</li>
+	<li>Agile PM</li>
 	
 </ul>
 
 <h2>Computer skills</h2>
 
 <ul class="skill-list">
-	<li>Machine learning</li>
-	<li>Deep Learning</li>
-	<li>Reinforcement learning</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>Strong knowledge in AI, Machine Learning, Data Science and Algorithms.</li>
+	<li>Programming languages: Python, Java, C, C++,PHP.</li>
+	<li>Deep Learning, Neural Networks, Reinforcement learning, Computer Vision, Remote Sensing, Natural Language Processing, etc. TensorFlow, Keras, Numpy, Pandas, Sci-learn, etc.</li>
+	<li>Cloud: Amazon Web Services, Microsoft Azure, Google Cloud, Xen, Digital Ocean.</li>
+	<li>Git, Bootstrap, Django, Nginx, etc. </li>
+
 </ul>
 
 <h2>Projects</h2>
