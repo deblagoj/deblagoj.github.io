@@ -10,7 +10,7 @@ description: A blog about AI, ML, cloud and technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/blagoj.jpeg
+picture: assets/images/blagoj.png
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
@@ -20,7 +20,7 @@ dark-theme: auto
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://www.dropbox.com/s/17sefjzyegm8omi/europeCVBD1.pdf?dl=0 
 
 url: https://deblagoj.github.io
 # your url: https://USERNAME.github.io
@@ -39,7 +39,7 @@ disqus:
 #facebook: myfacebook
 twitter: BDelipetrev
 #instagram: myinstagram
-linkedin: blagojdelipetrev/
+linkedin: blagojdelipetrev
 github: deblagoj
 email: blagoj.delipetrev@gmail.com
 
@@ -48,14 +48,9 @@ authors:
     name: Blagoj Delipetrev
     bio: Think globally act locally. 
     external-image: false
-    picture: assets/images/profile.jpg
+    picture: assets/images/blagoj.png
     twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal

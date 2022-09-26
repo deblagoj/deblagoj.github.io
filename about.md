@@ -13,20 +13,19 @@ My main project is AI WATCH, a European Commission body that monitors the develo
 
 My academic career began in 2007, when I began a PhD program at the University of Cyril and Methodius. I created a hybrid multi-cloud computing application that runs on three different cloud providers: AWS, Google Cloud, and a private cloud. In 2010, I was awarded the prestigious Netherlands Fellowship Programme scholarship and enrolled in a PhD program at <a href="https://www.tudelft.nl/">TU Delft </a> and UNESCO-IHE. My PhD thesis focused on the application of machine learning algorithms. In April 2016, I successfully defended my second PhD thesis. I've been an associate professor since 2016. In 2021, I got promoted to full professor. 
 
-
- Accomplishments:
-- Ranked first among the top five students in my generation.
-- Macedonia's first full PhD scholarship from the Dutch government in 2010.
-- Macedonia's first CA among the 3500+ employees of the European Commission Joint Research Center.
-
-
+<h2>Major accomplishments</h2>
+<ul class="skill-list">
+<li>Ranked first among the top five students in my generation.</li>
+<li> Macedonia's first full PhD scholarship from the Dutch government in 2010.</li>
+<li>Macedonia's first CA among the 3500+ employees of the European Commission Joint Research Center.</li>
+</ul>
 
 <h2>Organizational, leadership and management skills</h2>
 
 <ul class="skill-list">
 	<li>Team player, Helpful, Trustworthy, Integrity. Strategy, Vision, Leadership, Responsibility.</li>
 	<li>Experienced manager and team lead in Academia, Startups and Public sector.</li>
-	<li>Agile PM</li>
+	<li>Agile PM.</li>
 	
 </ul>
 
@@ -41,10 +40,14 @@ My academic career began in 2007, when I began a PhD program at the University o
 
 </ul>
 
-<h2>Projects</h2>
+<h2>Links for more details</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://www.dropbox.com/s/17sefjzyegm8omi/europeCVBD1.pdf?dl=0 ">CV</a></li>
+	<li><a href="https://www.linkedin.com/in/blagojdelipetrev/">LinkedIn</a></li>
+	<li><a href="https://github.com/deblagoj/">GitHub</a></li>
+	<li><a href="https://bitt.solutions">Bitt Solutions portfolio</a></li>
+	<li><a href="https://scholar.google.com/citations?user=efC-Axkc8T8C&hl=en ">Google Scholar</a></li>
+	<li><a href="https://publications.jrc.ec.europa.eu/repository/search?query=delipetrev ">European Commission reports</a></li>
+
 </ul>
