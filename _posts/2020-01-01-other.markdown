@@ -1,0 +1,39 @@
+---
+title: "Other Projects"
+layout: post
+date: 2021-10-9 22:10
+tag: jekyll
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "Projects"
+category: project
+author: johndoe
+externalLink: false
+---
+
+
+
+
+## Other projects European Commission Joint Research Centre
+
+ 1/10/2017 – ongoing
+
+
+Position/job title: Scientific officer 
+
+### [Evaluation of the Potential of Convolutional Neural Networks and Random Forests for Multi-Class Segmentation of Sentinel-2 Imagery](https://jeodpp.jrc.ec.europa.eu/services/webview/jeodpp/ml-showcase/)
+
+ The objective was to develop a [satellite image recognition system using deep learning or specifically convolutional neural networks and random forest algorithms]( https://www.mdpi.com/2072-4292/11/8/907). The software stack was mainly python libraries NumPy, Pandas, and deep learning framework TensorFlow and Keras. Docker was used for containerization.
+
+
+
+### [YOU&AI exhibition in Milano Museum Leonardo da Vinci](https://www.museoscienza.org/it/open-night-2021 )
+ On 24 September 2021, the exhibition was officially opened by JRC Director General Stephen Quest, together with the Director General of the Museum Fiorenzo Galli and the Italian minister of University and Research, Christina Messa.  I was one of the main contributors to YOU&AI project. YOU&AI will have an immense impact in promoting European Commission Joint Research Center among (young) Italians.  Many of the Italians high schools are going to visit YOU&AI exhibition and see my presentation. I am very proud and happy about this project.
+
+### [Enlargement and Integration workshop "Digital Transformation, Data and AI in the Western Balkans](https://joint-research-centre.ec.europa.eu/events/workshop-digital-transformation-data-and-ai-western-balkans-2021-12-09_en)
+
+The Workshop was a hybrid event organised by the European Commission Joint Research Centre in association with the Food and Agricultural Organisation of the United Nations, the United Nations Global Geospatial Information Management and the University Ss Cyril and Methodius in Skopje. There were more than 40 presentations from Serbia, Kosovo, Slovenia, Bulgaria, Croatia, Turkey, Ukraine, Albania, Bosnia and Herzegovina, Moldova and N. Macedonia. The workshop had high level representatives from the Delegation of the European Union, Joint Research Center, Government Ministries and Chamber of commerce.
+ 
+I was the main organiser of the workshop. I had to prioritise and organise the task among the co-organizers, local organisers, the hotel and other activities, JRC budget office and communicate internally in the unit. The workshop was a great success and I’m grateful to all involved in the organisation. Finally, we delivered within the expected budget and on time. I got recognition for the successful organisation of the workshop from my superiors.   
+

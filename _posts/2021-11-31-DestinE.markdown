@@ -1,0 +1,42 @@
+---
+title: "Destination Earth"
+layout: post
+date: 2021-12-30 22:10
+tag: jekyll
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "Projects"
+category: project
+author: johndoe
+externalLink: false
+---
+
+
+
+
+## [Destination Earth](https://digital-strategy.ec.europa.eu/en/policies/destination-earth)
+
+1/03/2019 – 30/12/2021
+
+
+European Commission Joint Research Centre
+
+
+Position/job title: Scientific officer, member of Destination earth project.  
+
+Nature of your work: Destination Earth (DestinE) is the EU's flagship initiative to the twin challenge of green and digital transition. Destination Earth project have involved DGs: CNECT, DEFIS, RTD and JRC.  DestinE data lake will consist of the federation of the Copernicus, ESA, ECMWF and EUMETSAT respective data lakes. DestinE infrastructure is planned as a federated system of digital infrastructures providing scalable on- demand processing capacity based on a hybrid cloud-HPC model as well as a full Earth Observation and Green Deal data space repository (initial estimate @ ca. 150- 200 petabytes).
+
+We have developed a proof-of-concept of a federated cloud with disturbed big data resources. The system was tested with a case study that combined Sentinel products and Edge data streams as input to a deep learning model that predicted meteorological information.
+
+Specific role and responsibilities.
+* Contribute to the management meetings and discussion on Destination earth. 
+* Give advice in the negotiations with the stakeholders on project objectives, milestones, and deliverables. 
+* Conceptualization of data models, architecture and building blocks.
+* Analysis, assessment, and management of big data.
+* Developing a AI solution for a variety of users, based on the latest IT technology stack.
+* Defining and designing data integration solutions. 
+* Contribute to drafting technical specifications, resource planning and allocations. 
+* Managing, implementing and delivery of assigned tasks. 
+
+

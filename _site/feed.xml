@@ -1,164 +1,119 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4023/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4023/" rel="alternate" type="text/html" /><updated>2022-09-26T22:01:40+02:00</updated><id>http://localhost:4023/feed.xml</id><title type="html">Blagoj Delipetrev</title><subtitle>A blog about AI, ML, cloud and technology and stuff related</subtitle><entry><title type="html">Markdown Common Elements</title><link href="http://localhost:4023/markdown-common-elements/" rel="alternate" type="text/html" title="Markdown Common Elements" /><published>2016-02-24T22:44:00+01:00</published><updated>2016-02-24T22:44:00+01:00</updated><id>http://localhost:4023/markdown-common-elements</id><content type="html" xml:base="http://localhost:4023/markdown-common-elements/">&lt;h2 id=&quot;basic-formatting&quot;&gt;Basic formatting&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-10-11T23:35:24+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Blagoj Delipetrev</title><subtitle>A blog about AI, ML, cloud and technology and stuff related</subtitle><entry><title type="html">Introduction in AI for non-experts</title><link href="http://localhost:4000/intro-ai-for-non-experts/" rel="alternate" type="text/html" title="Introduction in AI for non-experts" /><published>2022-10-10T22:48:00+02:00</published><updated>2022-10-10T22:48:00+02:00</updated><id>http://localhost:4000/intro-ai-for-non-experts</id><content type="html" xml:base="http://localhost:4000/intro-ai-for-non-experts/">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
 
-&lt;p&gt;This note &lt;strong&gt;demonstrates&lt;/strong&gt; some of what &lt;a href=&quot;https://daringfireball.net/projects/markdown/&quot;&gt;Markdown&lt;/a&gt; is &lt;em&gt;capable of doing&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;AI (artificial intelligence) has progressed from an academic endeavor to a pervasive technology used everywhere. AI-powered products are now integrated into every aspect of our digital lives and recommend what to watch, where to eat, what to wear, how to communicate, predict search queries and provide seamless language translation. For these reasons, AI and machine learning (ML) has become central to the strategy of companies, organizations and governments which are feeling the pressure to innovate and reinvent themselves.&lt;/p&gt;
 
-&lt;p&gt;And that’s how to do it.&lt;/p&gt;
+&lt;p&gt;The growing demand for AI is being hampered by scarcity of data scientists and AI experts. Many governments, public organizations, and non-tech companies that need to adopt AI solutions are facing a lack of knowledge and high costs. According to survey by &lt;a href=&quot;https://www2.deloitte.com/content/dam/Deloitte/us/Documents/deloitte-analytics/us-da-2017-deloitte-state-of-cognitive-survey.pdf#page=12&quot;&gt;Deloitte&lt;/a&gt;, 47% of companies had difficulty integrating AI into their current systems and 40% cited cost as a significant impendent. Furthermore, 37% of managers said they lacked the necessary expertise to implement AI, making AI and its benefits inaccessible.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;This note **demonstrates** some of what [Markdown][some/link] is *capable of doing*.&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;While domain experts communicate about their problem domain, AI experts communicate about AI models and optimization algorithms. AI experts and domain experts may well have divergent project objectives. Domain experts’ primary goal is to solve a specific problem, whereas AI experts’ primary goal can be to advance a complex AI algorithm. The communication gap and goal alignment can be exacerbated in projects with multiple stakeholders and differing educational and professional backgrounds. Many AI projects fail or are not adopted because of these challenges.&lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;p&gt;Acceptance and trust are lagging behind AI technology advancement. There is a divide between people who use AI and those who do not. As a result, people that are less informed frequently reject and distrust AI.&lt;/p&gt;
 
-&lt;h2 id=&quot;headings&quot;&gt;Headings&lt;/h2&gt;
+&lt;p&gt;Currently, people who train and use AI models are typically experienced developers with years of experience working within large organizations. The next wave of AI automaton should allow a significantly larger number of people, potentially without any coding skills, to perform the same tasks. These new AI systems will not require users to fully understand many of the details and provide them with a more abstract interface that is less demanding and more familiar.&lt;/p&gt;
 
-&lt;p&gt;There are six levels of headings. They correspond with the six levels of HTML headings. You’ve probably noticed them already in the page. Each level down uses one more hash character. But we are using just 4 of them.&lt;/p&gt;
-
-&lt;h1 id=&quot;headings-can-be-small&quot;&gt;Headings can be small&lt;/h1&gt;
-
-&lt;h2 id=&quot;headings-can-be-small-1&quot;&gt;Headings can be small&lt;/h2&gt;
-
-&lt;h3 id=&quot;headings-can-be-small-2&quot;&gt;Headings can be small&lt;/h3&gt;
-
-&lt;h4 id=&quot;headings-can-be-small-3&quot;&gt;Headings can be small&lt;/h4&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;# Heading
-## Heading
-### Heading
-#### Heading&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;lists&quot;&gt;Lists&lt;/h2&gt;
-
-&lt;h3 id=&quot;ordered-list&quot;&gt;Ordered list&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Item 1&lt;/li&gt;
-  &lt;li&gt;A second item&lt;/li&gt;
-  &lt;li&gt;Number 3&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;1. Item 1
-2. A second item
-3. Number 3&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;h3 id=&quot;unordered-list&quot;&gt;Unordered list&lt;/h3&gt;
-
+&lt;p&gt;AI for non-experts (AIFNE) is answer to these challenges. AI for non-experts is a code-free technology that will allows anyone to create and test their ideas without having AI technical knowledge. This technology is an intersection between &lt;strong&gt;no-code AI, low-code AI, AutoML, MLOps&lt;/strong&gt; and requires minimal knowledge. AIFNE have:&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;An item&lt;/li&gt;
-  &lt;li&gt;Another item&lt;/li&gt;
-  &lt;li&gt;Yet another item&lt;/li&gt;
-  &lt;li&gt;And there’s more…&lt;/li&gt;
+  &lt;li&gt;Graphical User Interface (GUI) environment with drag-and-drop components or wizard-based interfaces to work with datasets, models, and AI algorithms.&lt;/li&gt;
+  &lt;li&gt;AutoML to automate ML models creation without writing code.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;* An item
-* Another item
-* Yet another item
-* And there&apos;s more...&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/traditional-vs-new-ai-pipeline.png&quot; alt=&quot;traditional vs new ai pipeline&quot; class=&quot;bigger-image&quot; /&gt;&lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;p&gt;The traditional AI lifecycle starts with data preparation, feature extraction, model selection, fine tuning, model training and deployment and obtaining results. These steps require complex code and specialized software and hardware infrastructure. AIFNE lifecycle is focused on the user and results as shown in Figure 1.&lt;/p&gt;
 
-&lt;h2 id=&quot;paragraph-modifiers&quot;&gt;Paragraph modifiers&lt;/h2&gt;
+&lt;p&gt;No-code technology is replacing code with drag and drop interfaces in the same way that Windows and MacOS have replaced the terminal. WYSIWYG (what you see is what you get) solutions like Dreamweaver and MS FrontPage became emerging fields in no-code web development in 1997. Automation and no-code solutions in many domains in software development are brining immense productivity boost. Regular users can now build an application with a browser replacing an army of engineers.  Powerful applications that only large business or research organization have been able to afford are becoming norm for small and medium companies and organization. Soon, same will happen with AI.&lt;/p&gt;
 
-&lt;h3 id=&quot;quote&quot;&gt;Quote&lt;/h3&gt;
+&lt;p&gt;A vast amount of initiatives claims that they democratise AI. Out of all these initiatives, only those that are building AI for non-experts tools get the closest to the ideal of “any person without prior training”. Democratization of AI will bring more adoption, acceptance, education and trust in AI.&lt;/p&gt;</content><author><name>jamesfoster</name></author><category term="blog" /><category term="markdown" /><category term="components" /><category term="extra" /><summary type="html">Introduction</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/markdown.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/markdown.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Destination Earth</title><link href="http://localhost:4000/DestinE/" rel="alternate" type="text/html" title="Destination Earth" /><published>2021-12-30T22:10:00+01:00</published><updated>2021-12-30T22:10:00+01:00</updated><id>http://localhost:4000/DestinE</id><content type="html" xml:base="http://localhost:4000/DestinE/">&lt;h2 id=&quot;destination-earth&quot;&gt;&lt;a href=&quot;https://digital-strategy.ec.europa.eu/en/policies/destination-earth&quot;&gt;Destination Earth&lt;/a&gt;&lt;/h2&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;Here is a quote. What this is should be self explanatory. Quotes are automatically indented when they are used.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;1/03/2019 – 30/12/2021&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;&amp;gt; Here is a quote. What this is should be self explanatory.&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;European Commission Joint Research Centre&lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;p&gt;Position/job title: Scientific officer, member of Destination earth project.&lt;/p&gt;
 
-&lt;h2 id=&quot;urls&quot;&gt;URLs&lt;/h2&gt;
+&lt;p&gt;Nature of your work: Destination Earth (DestinE) is the EU’s flagship initiative to the twin challenge of green and digital transition. Destination Earth project have involved DGs: CNECT, DEFIS, RTD and JRC.  DestinE data lake will consist of the federation of the Copernicus, ESA, ECMWF and EUMETSAT respective data lakes. DestinE infrastructure is planned as a federated system of digital infrastructures providing scalable on- demand processing capacity based on a hybrid cloud-HPC model as well as a full Earth Observation and Green Deal data space repository (initial estimate @ ca. 150- 200 petabytes).&lt;/p&gt;
 
-&lt;p&gt;URLs can be made in a handful of ways:&lt;/p&gt;
+&lt;p&gt;We have developed a proof-of-concept of a federated cloud with disturbed big data resources. The system was tested with a case study that combined Sentinel products and Edge data streams as input to a deep learning model that predicted meteorological information.&lt;/p&gt;
 
+&lt;p&gt;Specific role and responsibilities.&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;A named link to &lt;a href=&quot;https://daringfireball.net/projects/markdown/basics&quot;&gt;Mark It Down&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;Another named link to &lt;a href=&quot;https://google.com/&quot;&gt;Mark It Down&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Sometimes you just want a URL like &lt;a href=&quot;https://google.com/&quot;&gt;https://google.com/&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
+  &lt;li&gt;Contribute to the management meetings and discussion on Destination earth.&lt;/li&gt;
+  &lt;li&gt;Give advice in the negotiations with the stakeholders on project objectives, milestones, and deliverables.&lt;/li&gt;
+  &lt;li&gt;Conceptualization of data models, architecture and building blocks.&lt;/li&gt;
+  &lt;li&gt;Analysis, assessment, and management of big data.&lt;/li&gt;
+  &lt;li&gt;Developing a AI solution for a variety of users, based on the latest IT technology stack.&lt;/li&gt;
+  &lt;li&gt;Defining and designing data integration solutions.&lt;/li&gt;
+  &lt;li&gt;Contribute to drafting technical specifications, resource planning and allocations.&lt;/li&gt;
+  &lt;li&gt;Managing, implementing and delivery of assigned tasks.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>johndoe</name></author><category term="project" /><category term="jekyll" /><summary type="html">Destination Earth</summary></entry><entry><title type="html">AI Watch</title><link href="http://localhost:4000/AIwatch/" rel="alternate" type="text/html" title="AI Watch" /><published>2021-12-30T22:10:00+01:00</published><updated>2021-12-30T22:10:00+01:00</updated><id>http://localhost:4000/AIwatch</id><content type="html" xml:base="http://localhost:4000/AIwatch/">&lt;h2 id=&quot;ai-watch&quot;&gt;&lt;a href=&quot;https://ai-watch.ec.europa.eu/index_en&quot;&gt;AI WATCH&lt;/a&gt;&lt;/h2&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;* A named link to [MarkItDown][3].
-* Another named link to [MarkItDown](https://google.com/)
-* Sometimes you just want a URL like &amp;lt;https://google.com/&amp;gt;.&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;01/12/2018 – 31/12/2021&lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;p&gt;European Commission, Joint Research Centre.&lt;/p&gt;
 
-&lt;h2 id=&quot;horizontal-rule&quot;&gt;Horizontal rule&lt;/h2&gt;
+&lt;p&gt;Working time pattern: Full time.&lt;/p&gt;
 
-&lt;p&gt;A horizontal rule is a line that goes across the middle of the page.
-It’s sometimes handy for breaking things up.&lt;/p&gt;
+&lt;p&gt;Position/job title: Deputy task leader, scientific project officer.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;---&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;Nature of your work: I was deputy task leader in the AI WATCH project. AI WATCH monitors a) industrial, technological and research capacity, policy initiatives in the Member States, b) uptake and technical developments of Artificial Intelligence and its impact in the economy, society, and public services. AI WATCH has provided a number of analyses necessary to monitor and facilitate the implementation of the European Strategy for AI.&lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;p&gt;AI WATCH was AA with DG CONNECT and had a 3-year budget of 2.5 M euro. The team was around 25-30 people, most of them part time, and had various methodologies and technologies involved.&lt;/p&gt;
 
-&lt;h2 id=&quot;images&quot;&gt;Images&lt;/h2&gt;
+&lt;p&gt;Specific role and responsibilities.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Participate and contribute to AI WATCH project management meetings.&lt;/li&gt;
+  &lt;li&gt;Contribute to the strategic vision of AI WATCH.&lt;/li&gt;
+  &lt;li&gt;Negotiate with the stakeholders, DG CONNECT on project objectives, milestones, and deliverables.&lt;/li&gt;
+  &lt;li&gt;Contribute to drafting technical specifications, resource planning and allocations, particularly in my task.&lt;/li&gt;
+  &lt;li&gt;Co-lead team in charge of project activities.&lt;/li&gt;
+  &lt;li&gt;Managing, implementing and delivery of assigned tasks.&lt;/li&gt;
+  &lt;li&gt;Technology watch and technology evaluation.&lt;/li&gt;
+  &lt;li&gt;Contribute to reports, analysis, and publications.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>johndoe</name></author><category term="project" /><category term="jekyll" /><summary type="html">AI WATCH</summary></entry><entry><title type="html">Other Projects</title><link href="http://localhost:4000/other/" rel="alternate" type="text/html" title="Other Projects" /><published>2021-10-09T22:10:00+02:00</published><updated>2021-10-09T22:10:00+02:00</updated><id>http://localhost:4000/other</id><content type="html" xml:base="http://localhost:4000/other/">&lt;h2 id=&quot;other-projects-european-commission-joint-research-centre&quot;&gt;Other projects European Commission Joint Research Centre&lt;/h2&gt;
 
-&lt;p&gt;Markdown can also contain images. I’ll need to add something here sometime.&lt;/p&gt;
+&lt;p&gt;1/10/2017 – ongoing&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;![Markdowm Image][/image/url]&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;Position/job title: Scientific officer&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://kune.fr/wp-content/uploads/2013/10/ghost-blog.jpg&quot; alt=&quot;Markdowm Image&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;evaluation-of-the-potential-of-convolutional-neural-networks-and-random-forests-for-multi-class-segmentation-of-sentinel-2-imagery&quot;&gt;&lt;a href=&quot;https://jeodpp.jrc.ec.europa.eu/services/webview/jeodpp/ml-showcase/&quot;&gt;Evaluation of the Potential of Convolutional Neural Networks and Random Forests for Multi-Class Segmentation of Sentinel-2 Imagery&lt;/a&gt;&lt;/h3&gt;
 
-&lt;p&gt;&lt;em&gt;Figure Caption&lt;/em&gt;?&lt;/p&gt;
+&lt;p&gt;The objective was to develop a &lt;a href=&quot;https://www.mdpi.com/2072-4292/11/8/907&quot;&gt;satellite image recognition system using deep learning or specifically convolutional neural networks and random forest algorithms&lt;/a&gt;. The software stack was mainly python libraries NumPy, Pandas, and deep learning framework TensorFlow and Keras. Docker was used for containerization.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;![Markdowm Image][/image/url]
-&amp;lt;figcaption class=&quot;caption&quot;&amp;gt;Photo by John Doe&amp;lt;/figcaption&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;h3 id=&quot;youai-exhibition-in-milano-museum-leonardo-da-vinci&quot;&gt;&lt;a href=&quot;https://www.museoscienza.org/it/open-night-2021&quot;&gt;YOU&amp;amp;AI exhibition in Milano Museum Leonardo da Vinci&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;On 24 September 2021, the exhibition was officially opened by JRC Director General Stephen Quest, together with the Director General of the Museum Fiorenzo Galli and the Italian minister of University and Research, Christina Messa.  I was one of the main contributors to YOU&amp;amp;AI project. YOU&amp;amp;AI will have an immense impact in promoting European Commission Joint Research Center among (young) Italians.  Many of the Italians high schools are going to visit YOU&amp;amp;AI exhibition and see my presentation. I am very proud and happy about this project.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://kune.fr/wp-content/uploads/2013/10/ghost-blog.jpg&quot; alt=&quot;Markdowm Image&quot; /&gt;&lt;/p&gt;
-&lt;figcaption class=&quot;caption&quot;&gt;Photo by John Doe&lt;/figcaption&gt;
+&lt;h3 id=&quot;enlargement-and-integration-workshop-digital-transformation-data-and-ai-in-the-western-balkans&quot;&gt;&lt;a href=&quot;https://joint-research-centre.ec.europa.eu/events/workshop-digital-transformation-data-and-ai-western-balkans-2021-12-09_en&quot;&gt;Enlargement and Integration workshop “Digital Transformation, Data and AI in the Western Balkans&lt;/a&gt;&lt;/h3&gt;
 
-&lt;p&gt;&lt;em&gt;Bigger Images&lt;/em&gt;?&lt;/p&gt;
+&lt;p&gt;The Workshop was a hybrid event organised by the European Commission Joint Research Centre in association with the Food and Agricultural Organisation of the United Nations, the United Nations Global Geospatial Information Management and the University Ss Cyril and Methodius in Skopje. There were more than 40 presentations from Serbia, Kosovo, Slovenia, Bulgaria, Croatia, Turkey, Ukraine, Albania, Bosnia and Herzegovina, Moldova and N. Macedonia. The workshop had high level representatives from the Delegation of the European Union, Joint Research Center, Government Ministries and Chamber of commerce.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;![Markdowm Image][/image/url]{: class=&quot;bigger-image&quot; }&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;I was the main organiser of the workshop. I had to prioritise and organise the task among the co-organizers, local organisers, the hotel and other activities, JRC budget office and communicate internally in the unit. The workshop was a great success and I’m grateful to all involved in the organisation. Finally, we delivered within the expected budget and on time. I got recognition for the successful organisation of the workshop from my superiors.&lt;/p&gt;</content><author><name>johndoe</name></author><category term="project" /><category term="jekyll" /><summary type="html">Other projects European Commission Joint Research Centre</summary></entry><entry><title type="html">Bitt Solutions</title><link href="http://localhost:4000/bitt-solutions/" rel="alternate" type="text/html" title="Bitt Solutions" /><published>2017-08-31T22:10:00+02:00</published><updated>2017-08-31T22:10:00+02:00</updated><id>http://localhost:4000/bitt-solutions</id><content type="html" xml:base="http://localhost:4000/bitt-solutions/">&lt;h2 id=&quot;bitt-solutions-unlimited&quot;&gt;&lt;a href=&quot;https://bitt.solutions&quot;&gt;Bitt Solutions Unlimited&lt;/a&gt;&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://kune.fr/wp-content/uploads/2013/10/ghost-blog.jpg&quot; alt=&quot;Markdowm Image&quot; class=&quot;bigger-image&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;10/08/2015 – 31/08/2017&lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;p&gt;Position/job title: CEO, lead researcher and developer.&lt;/p&gt;
 
-&lt;h2 id=&quot;code&quot;&gt;Code&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Monet&lt;/strong&gt; research and development of AI optimization algorithms of call agents’ schedules. The objective was to develop a complex AI scheduler for more than 1000 employees in multiple time zones and with hard and soft constraints. The software solution was developed in OptaPlanner and Drools and programmed in Java.&lt;/p&gt;
 
-&lt;p&gt;A HTML Example:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Genivity&lt;/strong&gt; required design, development and test of graph database per requirements. The team had a graph database, azure system administrator and QA engineers.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;cp&quot;&gt;&amp;lt;!DOCTYPE html&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;html&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;lang=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;en&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;head&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;meta&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;charset=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;UTF-8&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;title&amp;gt;&lt;/span&gt;Document&lt;span class=&quot;nt&quot;&gt;&amp;lt;/title&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/head&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;body&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;h1&amp;gt;&lt;/span&gt;Just a test&lt;span class=&quot;nt&quot;&gt;&amp;lt;/h1&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/body&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/html&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;CartoFront&lt;/strong&gt; offered a service for real estate lead generators. The technologies stack was AngularJS, NodeJS, ESRI, PostgreSQL, running on Azure cloud. Later, based on our team analysis, we moved to open-source stack with PosgreSQL, GeoServer and OpenLayers.&lt;/p&gt;
 
-&lt;p&gt;A CSS Example:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;UCX&lt;/strong&gt; designing and implementing AI algorithm for price calculation in Python, system admin, other services.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span class=&quot;nt&quot;&gt;pre&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;padding&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;10px&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;font-size&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;.8em&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;white-space&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pre&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-
-&lt;span class=&quot;nt&quot;&gt;pre&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;table&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-
-&lt;span class=&quot;nt&quot;&gt;code&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;pre&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;tt&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;font-family&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Monaco&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Consolas&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Inconsolata&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;monospace&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;sans-serif&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;background&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;rgba&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;.05&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;A JS Example:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;c1&quot;&gt;// Sticky Header&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;scroll&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-
-    &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;window&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;scrollTop&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;900&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;!&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;body&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;hasClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;show-menu&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-        &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;#hamburguer__open&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;fadeOut&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;fast&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;!&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;body&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;hasClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;show-menu&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-        &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;#hamburguer__open&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;fadeIn&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;fast&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-
-&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><author><name>johndoe</name></author><category term="blog" /><category term="markdown" /><category term="elements" /><summary type="html">Basic formatting</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4023/assets/images/markdown.jpg" /><media:content medium="image" url="http://localhost:4023/assets/images/markdown.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;p&gt;Specific role and responsibilities.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Negotiate and sign a contract.&lt;/li&gt;
+  &lt;li&gt;Project management: analysis, proposal, design, cost estimation, identification and acquisition of required resources, scheduling activities, follow-up of implementation, change management and reporting.&lt;/li&gt;
+  &lt;li&gt;Conceptualisation, architecture design, functional and technical analysis, definition of technical and business requirements, drafting of technical specifications, prototyping, developing, testing, implementing, ensuring quality control, monitoring, integration and evolution/maintenance of Cloud applications and off-the-shelf solutions within an advanced technology context.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Implementation  of solutions using cloud technologies, containerisation and other software virtualisation technologies.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Research for an optimal AI software solution that satisfies client requirements and future needs, preferably open source.&lt;/li&gt;
+  &lt;li&gt;Ranking of possible solutions with their pros and cons.&lt;/li&gt;
+  &lt;li&gt;Conceptualization, algorithm design, functional and technical analysis.&lt;/li&gt;
+  &lt;li&gt;Assembling a team to develop custom in-house software based on off-the-shell software.&lt;/li&gt;
+  &lt;li&gt;Development and installation of in-house software together with the client team.&lt;/li&gt;
+  &lt;li&gt;Drafting project documentation and change management.&lt;/li&gt;
+  &lt;li&gt;Define technical specification, tasks, and resource estimation.&lt;/li&gt;
+  &lt;li&gt;Plan and allocate resources.&lt;/li&gt;
+  &lt;li&gt;Management of cost, timelines, and resources in the implementation phase with Agile and Scrum methodologies.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>johndoe</name></author><category term="project" /><category term="jekyll" /><summary type="html">Bitt Solutions Unlimited</summary></entry></feed>
