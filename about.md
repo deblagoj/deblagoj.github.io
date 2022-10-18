@@ -56,3 +56,43 @@ layout: page
 	<li><a href="https://publications.jrc.ec.europa.eu/repository/search?query=delipetrev ">European Commission reports</a></li>
 
 </ul>
+
+
+<!-- 
+<h2>Selected publications</h2>
+
+<ul>
+	<li>
+		<a href="https://publications.jrc.ec.europa.eu/repository/handle/JRC113826">
+		<img src="/assets/images/JRC113826_cover.jpg" alight="center" alt=" ">
+		</a>
+	</li>
+	<li>
+		<a href="https://publications.jrc.ec.europa.eu/repository/handle/JRC116179">
+			<img src="/assets/images/JRC116179_cover.jpg" alight="center" alt=" ">
+		</a>
+	</li>
+	<li>
+		<a href="https://publications.jrc.ec.europa.eu/repository/handle/JRC120469">
+			<img src="/assets/images/JRC120469_cover.jpg" alight="center" alt=" ">
+		</a>
+	</li>
+	<li>
+		<a href="https://publications.jrc.ec.europa.eu/repository/handle/JRC122457">
+			<img src="/assets/images/JRC122457_cover.jpg" alight="center" alt=" ">
+		</a>
+	</li>
+	<li>
+		<a href="https://publications.jrc.ec.europa.eu/repository/handle/JRC126426">
+			<img src="/assets/images/JRC126426_cover.jpg" alight="center" alt=" ">
+		</a>
+	</li>
+	<li>
+		<a href="https://www.mdpi.com/2072-4292/11/8/907">
+			<img src="/assets/images/1.png" alight="center" alt=" ">
+		</a>
+	</li>
+
+</ul>
+
+ -->
