@@ -17,7 +17,7 @@ description: Intro in AI for non-experts
 ## definition 
 
 AI for non-experts (AIFNE) is the intersection between __no-code AI, low-code AI, AutoML, Declarative ML, MLOps__ and requires minimal knowledge. AIFNE have:
-* 	Graphical User Interface (GUI) environment with drag-and-drop components or wizard-based interfaces to work with datasets, models, and AI algorithms. 
+* 	Graphical User Interface (GUI)  with drag-and-drop components or wizard-based interfaces to work with datasets, models, and AI algorithms. 
 * 	AutoML to automate ML models creation without writing code.
 
 ## Introduction
