@@ -13,6 +13,18 @@ author: jamesfoster
 description: Intro in AI for non-experts
 ---
 
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-NG9HE1WSP9"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){window.dataLayer.push(arguments);}
+    gtag('js', new Date());
+  
+    gtag('config', 'G-NG9HE1WSP9');
+  </script>
+</head>
+
 
 ## definition 
 
