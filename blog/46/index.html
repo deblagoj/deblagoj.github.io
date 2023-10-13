@@ -118,38 +118,40 @@
       </style>
 
       
-    <h1>The Future: Q&amp;A LLMs on Private Data</h1>
-    <p>Published on: Sept. 18, 2023, 5:08 p.m.</p>
-    <p><p>
-<p>
-<p>If I were to bet on one application with LLMs (Large Language Models), it's this: in a short time, maybe months or years, every organization, big or small, will have its own custom LLM for their private data. I've spoken with many companies, both big ones and small ones, and also public organizations. Every single one has plans to build their own LLM based on their data. </p>
+    <h1>How to solve hallucinations in LLMs</h1>
+    <p>Published on: Oct. 13, 2023, 6:58 a.m.</p>
+    <p><div class="image-container">
+    <img src="/static/main/blog4/1.png" alt="QR Code" >
+  </div>
 
-<p>So, why is this happening? One big reason: <strong>PRIVACY. </strong></p>
-<p>
-Around the world, so many organizations, whether public or private, see privacy as their main concern. A lot of the data they have, like medical or personal information, can't leave their data centers. They're worried about data leaks and breaches of privacy. This is why I think we'll soon see a lot of custom LLMs made for private data.
-</p>
 
 <p>
-Right now, aside from well-known LLMs like GPT4 and Bard, the open-source scene is buzzing. There are lots of models out there, like the Llama meta models that come in different sizes. And it's not just these. There are loads of open-source LLM models to pick from. In a lot of situations, if you don't need the power of models like GPT4, an open-source model will do the job.</p>
+<p>All Large Language Models (LLMs) are trained on an extensive range of tokens, reaching into the billions, if not trillions. The text utilized for training LLMs is not curated; it is scraped from the Internet and encompasses everything – accurate information, misinformation, lies, hate speech, and more. Using this vast dataset, LLMs are trained to predict the next most probable token (for non-experts, consider a token as a word). Thus, LLMs predict the most probable word from a dataset that contains, quite literally, everything, including a substantial amount of unreliable information. Reinforcement Learning from Human Feedback (RLHF) has significantly enhanced LLMs' accuracy and reduced hallucinations, but it cannot eliminate them entirely. </p>
+
+<p>Simply put, if the LLM is trained with everything, it will produce everything, including hallucinations.
+What should one expect otherwise? 
+<p>
 
 <p>
-But why the focus on LLMs for private data?
-There's a big worry:<strong> Hallucinations.</strong></p>
+Furthermore, many expect LLMs to be the “source” of truth. But what constitutes the source of truth? What determines right from wrong? Numerous subtle topics exist where right and wrong depend heavily on context, country, culture, and moral and ethical values. Different countries uphold different values, and ethical and moral values evolve over time. How, then, can one expect the LLM to produce the “truth”?
+</p>
 
 <p>
-LLMs are doing big things in the AI world, but hallucinations are a problem. That's when the model makes up an answer, which can be wrong or misleading. It's a real issue.
-Using LLMs for private data can fix this. Every answer the LLM gives has a source or citation. So, if you trust where the information comes from, you can trust the answer. And because you're the one adding all your data to the LLM, you can make sure it's all good before it goes in.
+So, what is the solution?
 </p>
 <p>
-With all this in mind, a few months back, I made a demo using LLMs for private data. I added my 13 reports from JRC, and now you can ask questions and get answers from those reports. Here's the <a href="https://urchin-app-u7744.ondigitalocean.app/qa/question/">link to see it in action</a> and to check out the <a href="https://github.com/deblagoj/LLMs-QA-Citations">open-source code.</a>
-</p>
-What's next for the future? I think every organization will use this. Picture it: having your own Google for your company. You ask a question, and you get an answer with a source. Imagine that for all your stuff – emails, notes, reports. Now think bigger, like a whole company or organization using it. I'm sure it's going to happen.
-</p>
+The answer lies in retrieval-augmented generation (RAG) and similar approaches, where there is a dataset of your facts and knowledge, and the LLM provides answers based solely on your facts and knowledge. For example, you can input all your reports about AI that you have published, and the LLMs will produce answers based on this knowledge and nothing else. If you pose a question outside this domain knowledge, it will inform you that it doesn’t know the answer.</p>
+
 <p>
-One last thing to mention: LLMs are improving super fast. So, it won't be long before they're on your phone, computer, and in big company systems.
+Your facts and knowledge are unique to you, as a person, organisation, or even a country. You can integrate your values and norms into it.
 </p>
+
 <p>
-If this all sounds as exciting to you as it does to me, and you're looking for someone who knows the ins and outs of it, reach out. I'm here to help. Contact me on <a href="https://www.linkedin.com/in/blagojdelipetrev/">LinkedIn.</a>, or send me an email at blagoj @ bitt.solutions 
+I have built an MVP, offering Q&A on my reports on AI, and have published another <a href="https://blagojdelipetrev.com/blog/44/">blog  </a>about it. If you want access to the MVP (mininum viable product) send me an email to blagoj@bitt.solutions
+</p>
+
+<p>
+If you plan to build systems like this for your organization and need help, please feel free to contact me on my email above.
 </p>
     </p>
 
