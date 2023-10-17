@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="en">
+  <head>
+
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5NXSJ4144L"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5NXSJ4144L');
+</script>
+
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- in the <head> section of your base.html -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css">
+
+
+    <!-- Bootstrap CSS -->
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
+
+    <title></title>
+  </head>
+  <body>
+
+    
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WQT9QRJ"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <a class="navbar-brand" href="/">Blagoj Delipetrev</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link" href="/">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="/blog/">Blog</a>
+          </li>
+          <!-- Add more navigation items as needed -->
+        </ul>
+      </div>
+    </nav>
+
+    <div class="container mt-4">
+
+      <style>
+        .timeline {
+          list-style: none;
+          padding: 0;
+          position: relative;
+        }
+        .timeline::before {
+          content: '';
+          position: absolute;
+          top: 0;
+          bottom: 0;
+          width: 2px;
+          background: #ccc;
+          left: 30px;
+          margin-right: -1.5px;
+        }
+        .timeline li {
+          margin-bottom: 20px;
+          padding-left: 40px;
+        }
+        .timeline li::before {
+          content: '';
+          position: absolute;
+          left: 18px;
+          width: 12px;
+          height: 12px;
+          border-radius: 50%;
+          background: #ccc;
+        }
+        
+        .presentation-img {
+          width: 250px;
+          height: auto;
+        }
+        
+        .small-card .card-img-top {
+          max-width: 200px; /* adjust as needed */
+          max-height: 300px; /* adjust as needed */
+          object-fit: cover;
+        }
+        
+
+        body {
+          margin: 0;
+          padding: 0;
+        }
+        
+        .image-container {
+          width: 100%;
+          height: 100vh;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          overflow: hidden; /* Prevents spilling over if the image is too large */
+
+        }
+        
+        .image-container img {
+          width: 100%;
+          height: 100%;
+          object-fit: cover; 
+        }
+      </style>
+
+      
+    <h1>LLM strategy: What to build and Where to focus</h1>
+    <p>Published on: Oct. 17, 2023, 9:29 a.m.</p>
+    <p><div class="image-container">
+    <img src="/static/main/blog5/5.png" alt="QR Code" >
+  </div>
+
+<p>
+
+
+<h2>What will happen</h2>
+
+<p>
+<li> Future Large Language models (LLMs) will be multimodal, incorporating images and videos. </li>
+<li> The current generation of LLMs  are very powerful and can do many tasks. GPT4, GPT3.5 and many others like open source Llamas, Mistral etc. are solution to many problems.</li>
+<li> Explosion of No-code or Low-code solutions for fine-tuning, RLHF, etc. and any other possible method in LLMs. These are often integrated with the cloud provider, Azure, AWS and Google Cloud. </li>
+<li> Ludwig.ai and others will make customising LLMs “very” easy. (Low-code and no-code)</li>
+<li> In the next six months to a year, there will be another wave of image breakthroughs like StableDiffusion models. In 1-2 years multimodal will become prevalent.</li>
+<li> In the next six months to a year, prices of API to GPT4 and others will drop significant because there will be a lot of competition and many open source alternatives with minimal pricing.</li>
+<li> Open source LLMs will boom. Many will get on the board, except OpenAI, Antropics, and others. who already got Microsoft and Amazon respectively. </li>
+<li> In the next two years LLMs will be commodity.  Whatever right now is “the thing” will be possible to plug in your software and use it.</li> 
+<li> Nvidia is undisputed king of GPU that runs all AI models. However, dependence on Nvidia is driving companies to build their own chips, Microsoft being a prime contender, a move Google has already initiated.</li>
+<li> Despite these efforts, Nvidia will likely maintain its leadership for another three to four years, if not more. The chip manufacturing sector is notorious for its high entry barriers due to its complexity and limited availability of production facilities.</li>
+</ul>
+
+<p>
+<h2>What to do or not (for SME)</h2>
+<p>
+<li> While optimising LLM pipelines might seem an attractive endeavour, it's a common focus among many specialists. Unless you're in a large organisation or contributing to a significant open-source project, it's more smart to wait. Within six months to a year, many solutions will be readily available, either through your preferred cloud services or open-source platforms.</li>
+<li> Do not even think of competing in building LLM from scratch. You are outnumbered but so big margins you are even unaware. And you don’t need to do it, as explained before. Very few companies in the world are doing it, and the number won’t get bigger soon. </li>
+<li> Instead, invest time to play with fine-tuning, RLHF and other methods, they are here to stay, and can improve your model. </li>
+<li> Architect your infrastructure to easily integrate various LLMs. LangChain is one of the possibilities. Solutions like LangChain are just one of many options. Prioritize software design that allows for seamless on-the-fly incorporation, as you'll find yourself doing it frequently.</li>
+
+</ul>
+
+<p>
+<h2>To-do NOW</h2>
+<p>
+<li> Find a problem, and build a solution with LLM. There are really a lot. From personal tutor for students, <a href="https://blagojdelipetrev.com/blog/44/"> Q&A of your private data (I am doing that)</a>, an interview AI bot (another my project with MVP), … don’t do LLMs for coding, as believe me others (Microsoft and GitHub) will do it better and faster than you :) try to focus on many vertical problems which are there and can be solved and improved by LLMs.  </li>
+
+<li> The more niche the problem the better. You can find the people that need it and are willing to pay for it. After initial idea validation and making some money the space of similar problems and solutions is infinite. </li>
+
+<li> Many, if not every organisation will need custom Q&A on private data. Everyone is building it too, but the market is unlimited. Customers will guide your unique value propositions and feature development. Remember that companies like HuggingFace did not start as GitHub for AI models, and Amazon did not start as Cloud company. </li>
+
+</ul>
+
+<p>
+
+</p>
+<p>
+
+</p>
+
+<p>
+These are my thoughts. If you find something useful or you have some comments, I would be very happy to hear it. If you have an idea and want to work on it together feel free to contact me.  
+
+
+
+</p>
+    </p>
+
+
+    </div>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+  </body>
+</html>
