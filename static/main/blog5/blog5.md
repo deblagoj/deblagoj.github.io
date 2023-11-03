@@ -1,6 +1,6 @@
 
 <div class="image-container">
-    <img src="/static/main/blog4/5.png" alt="QR Code" >
+    <img src="/static/main/blog5/5.png" alt="QR Code" >
   </div>
 
 
